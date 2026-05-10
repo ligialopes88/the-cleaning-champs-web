@@ -2,19 +2,24 @@
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
 
-# Run and deploy your AI Studio app
+# 🛰️ A Digitalização de Pequenos Negócios Locais: The Cleaning Champs
 
-This contains everything you need to run your app locally.
+Este repositório contém a infraestrutura web de um projeto real desenvolvido para a empresa **The Cleaning Champs** (EUA). A solução une design premium, automação de baixo custo e integração estratégica de APIs para escalar negócios locais.
 
-View your app in AI Studio: https://ai.studio/apps/acbbc34c-82dc-41d0-88d4-395240acc228
+## 🚀 Funcionalidades Principais
+- **Lead Capture System:** Formulário inteligente com preenchimento automático de endereços (Google Maps API).
+- **Auto-Scheduling:** Sincronização em tempo real entre o site e o Google Calendar via Make.
+- **Visual CRM:** Gestão de ordens de serviço integrada ao Trello.
+- **Feedback Loop:** Automação de solicitações de avaliação (5-star reviews) no Gmail.
 
-## Run Locally
+## 🛠️ Tecnologias e Ferramentas
+- **Frontend:** HTML5, CSS3, JavaScript (Customized for Premium Aesthetics).
+- **Automation:** Make (Integromat) - Fluxos de baixo custo com 1000 ops gratuitas.
+- **APIs:** Google Maps (Places), Google Calendar, Gmail API.
+- **Hosting:** Hostinger (Performance & Security).
 
-**Prerequisites:**  Node.js
+## 💡 Proposta de Valor
+Solução desenvolvida para democratizar o acesso à tecnologia de ponta para pequenos negócios, provando que é possível ter automação de nível enterprise com investimento em infraestrutura próximo de zero.
 
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+---
+Desenvolvido por **Lígia Lopes** | Projeto Acadêmico UniFECAF.
