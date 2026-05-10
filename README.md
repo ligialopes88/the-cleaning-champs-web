@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assests/the cleaning champs (1).png" width="100%" alt="The Cleaning Champs Showcase">
+  <img src="the%20cleaning%20champs%20(1).png" width="100%" alt="The Cleaning Champs Showcase">
 </p>
 
 # 🛰️ A Digitalização de Pequenos Negócios Locais: The Cleaning Champs
