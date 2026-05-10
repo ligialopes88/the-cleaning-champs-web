@@ -21,5 +21,11 @@ Este repositório contém a infraestrutura web de um projeto real desenvolvido p
 ## 💡 Proposta de Valor
 Solução desenvolvida para democratizar o acesso à tecnologia de ponta para pequenos negócios, provando que é possível ter automação de nível enterprise com investimento em infraestrutura próximo de zero.
 
+## 🇺🇸 Market-Centric Strategy
+This project was tailored for the US market based on local consumer behavior research:
+- **Email-First Workflow:** Since email is the primary closing channel in the USA, the entire scheduling and confirmation flow is automated via Gmail API.
+- **Google Local SEO & Reviews:** Recognizing that Google is the #1 discovery tool for local services, the system triggers an automated "Thank You & Review Request" email 1 hour after service completion to boost the business's online reputation.
+- **Data Precision:** Integrated Google Maps API to ensure logistical accuracy for the DMV area.
+
 ---
 Desenvolvido por **Lígia Lopes** | Projeto Acadêmico UniFECAF.
