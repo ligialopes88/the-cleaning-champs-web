@@ -28,4 +28,5 @@ This project was tailored for the US market based on local consumer behavior res
 - **Data Precision:** Integrated Google Maps API to ensure logistical accuracy for the DMV area.
 
 ---
-Desenvolvido por **Lígia Lopes** | Projeto Acadêmico UniFECAF.
+Desenvolvido por **Lígia Lopes** | Projeto para um cliente real nos EUA.
+Link do vídeo de apresentação: https://www.youtube.com/watch?v=qIkDeLpeaxA
